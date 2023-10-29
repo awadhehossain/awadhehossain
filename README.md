@@ -1,6 +1,6 @@
-👋 Hi, I’m Awadhe Hossain
+👋 Hi, I’m Awadhe Hossain.
  I am a student of CSE department at United International University.
- I am intersted in Coding
+ I am intersted in Coding.
  I’m currently learning C,Python,Java.
 
 
