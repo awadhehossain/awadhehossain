@@ -1,4 +1,4 @@
-# 💫 About Me: Hi,I am Awadhe Hossain.A student of CSE department.
+# 💫 About Me: Hi,I am Awadhe Hossain.A student of CSE department at United International University.
 🔭 I’m currently working on DSA,Ml &web developments well as problem solving using java and c++<br>👯 I’m looking to collaborate on Website designing & real life problem solving.<br>🤝 I’m looking for help with Deep learning,Image processing &Generating AI.<br>🌱 I’m currently learning Java, C++, Javascript, DSA(C & java) and Arduino.<br>💬 Ask me about <br>📫 you can mail me here awadhehossain67@gmail.com<br>Knock me on Whatsapp:- 01821947177<br>😄 Pronouns: Awadhe<br>⚡ If I cannot be the sun<br>that shines upon the earth,<br>I can still be the lamp<br>and light up my street.
 
 
