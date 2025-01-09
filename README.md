@@ -4,7 +4,7 @@ Feel free to ask any question about programming or academic
 
 ### 🔭 Currently Working On:
 - YOLO V8 image processing
-- Line follower bot
+- Line follower Bot
 - Soccer Bot
 
 ### 🌱 Currently Learning:
