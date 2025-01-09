@@ -1,7 +1,32 @@
 # 💫 About Me:
-<br>Hi,I am Awadhe Hossain.A student of CSE department at United International University.
+<br>Hi, Welcome to my git hub profile.<br>
+Feel free to ask any question about programming or academic
 
-🔭 I’m currently working on DSA, Ml & web developments as well as problem solving using java and C++<br>👯 I’m looking to collaborate on Website designing & real life problem solving.<br>🤝 I’m looking for help with Deep learning,Image processing & Generating AI.<br>🌱 I’m currently learning Java,Python, C++, Javascript, DSA(C & java) and Arduino.<br>💬 Ask me about real life problem &programming related problem. <br>📫 you can mail me here awadhehossain67@gmail.com<br>Knock me on Whatsapp:- 01821947177<br>😄 Pronouns: Awadhe<br>⚡ If I cannot be the sun<br>that shines upon the earth,<br>I can still be the lamp<br>and light up my street.
+### 🔭 Currently Working On:
+- YOLO V8 image prosessing
+- Line follower bot
+- Soccer Bot
+  
+### 🌱 Currently Learning:
+- Image processing
+- Web development
+- DSA
+- Ml fundamentals
+  
+  ### 🎓 Education
+- United International University 
+  B.sc in Computer Science and Engineering (September 2023 - Present)
+  
+- Dhaka Residential Model College(DRMC) 
+  Higher Secondery School in  (2020 - 2022)
+
+  ### 💼 Experience
+  - Calculus and Algebra
+  - Digital logic Design
+  - Data structure Algarithms
+  - Yolo Image processing
+    
+  
 
 
 ## 🌐 Socials:
