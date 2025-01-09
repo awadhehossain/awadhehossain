@@ -3,24 +3,26 @@
 Feel free to ask any question about programming or academic
 
 ### 🔭 Currently Working On:
-- YOLO V8 image prosessing
+- YOLO V8 image processing
 - Line follower bot
 - Soccer Bot
-  
+
 ### 🌱 Currently Learning:
 - Image processing
+- Object detection
 - Web development
 - DSA
 - Ml fundamentals
-  
-  ### 🎓 Education
+- Python (Intermediate)
+
+### 🎓 Education
 - United International University 
   B.sc in Computer Science and Engineering (September 2023 - Present)
   
 - Dhaka Residential Model College(DRMC) 
   Higher Secondery School in  (2020 - 2022)
 
-  ### 💼 Experience
+### 💼 Experience
   - Calculus and Algebra
   - Digital logic Design
   - Data structure Algarithms
