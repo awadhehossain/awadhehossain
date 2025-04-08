@@ -6,10 +6,11 @@ Feel free to ask any question about programming or academic
 - YOLO V8 image processing
 - Line follower Bot
 - Soccer Bot
+- Air Defence System Model
+- Object detection
 
 ### 🌱 Currently Learning:
 - Image processing
-- Object detection
 - Web development
 - DSA
 - Ml fundamentals
