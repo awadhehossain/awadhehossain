@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>Hi, Welcome to my git hub profile.<br>
-I love exploring new technologies and solving real-world problems.<br>
-Always learning, always building.<br>
+🚀 I love exploring new technologies and solving real-world problems.<br>
+<b>Always learning, always building.<b/><br>
 Feel free to ask any question about programming or academic.
 
 ### 🔭 Currently Working On:
