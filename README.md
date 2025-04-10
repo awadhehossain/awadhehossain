@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br>Hi, Welcome to my git hub profile.<br>
-Feel free to ask any question about programming or academic
+I love exploring new technologies and solving real-world problems.<br>
+Always learning, always building.<br>
+Feel free to ask any question about programming or academic.
 
 ### 🔭 Currently Working On:
 - YOLO V8 image processing
