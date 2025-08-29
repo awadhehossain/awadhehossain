@@ -35,7 +35,7 @@ Feel free to ask any question about programming or academic.
 [Hackerrank-mdawadhehossain](https://www.hackerrank.com/profile/mdawadhehossain)<br>
 [Leetcode-awadhehossain](https://leetcode.com/u/awadhehossain)<br>
 [Codeforces-mdawadhehossain](https://codeforces.com/profile/mdawadhehossain)<br>
-[Hackerearth-mdawadhehossain](https://www.hackerearth.com/@mdawadhehossain)<br>
+[Codechef-awadhe](https://www.codechef.com/users/awadhe)<br>
 
 
 
