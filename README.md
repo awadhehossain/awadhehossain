@@ -29,7 +29,16 @@ Feel free to ask any question about programming or academic.
 
 ### Cirtifications:
 -HackerRank: Problem Solving (Basic)
-[Download Certificate]<br>(https://www.hackerrank.com/certificates/iframe/def654eea39f)
+[Download Certificate](https://www.hackerrank.com/certificates/iframe/def654eea39f)
+
+### 🚀 Problem Solving Accounts:
+[Hackerrank-mdawadhehossain](https://www.hackerrank.com/profile/mdawadhehossain)<br>
+[Leetcode-awadhehossain](https://leetcode.com/u/awadhehossain)<br>
+[Codeforces-mdawadhehossain](https://codeforces.com/profile/mdawadhehossain)<br>
+[Hackerearth-mdawadhehossain](https://www.hackerearth.com/@mdawadhehossain)<br>
+
+
+
 
     
   
