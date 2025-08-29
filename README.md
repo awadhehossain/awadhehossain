@@ -5,15 +5,11 @@
 Feel free to ask any question about programming or academic.
 
 ### 🔭 Currently Working On:
-- YOLO V8 image processing
 - Line follower Bot
 - Soccer Bot
-- Air Defence System Model
-- Object detection
 
 ### 🌱 Currently Learning:
 - Image processing
-- Web development
 - DSA
 - Ml fundamentals
 - Python (Intermediate)
@@ -30,6 +26,11 @@ Feel free to ask any question about programming or academic.
   - Digital logic Design
   - Data structure Algarithms
   - Yolo Image processing
+
+### Cirtifications:
+-HackerRank: Problem Solving (Basic)
+[Download Certificate](https://www.hackerrank.com/certificates/iframe/def654eea39f)
+
     
   
 
