@@ -29,7 +29,7 @@ Feel free to ask any question about programming or academic.
 
 ### Cirtifications:
 -HackerRank: Problem Solving (Basic)
-[Download Certificate](https://www.hackerrank.com/certificates/iframe/def654eea39f)
+[Download Certificate]<br>(https://www.hackerrank.com/certificates/iframe/def654eea39f)
 
     
   
