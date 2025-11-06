@@ -13,14 +13,30 @@ Feel free to ask any question about programming or academic.
 ### 🔭 Currently Working On:
 - Line follower Bot
 - Soccer Bot
+  <br>
+  <p align="center">
+  <img src="5d6e641d483137d67d9d4ddfafbc4551.gif">
+</p>
+
 
 ### 🌱 Currently Learning:
 - Image processing
 - DSA
 - Ml fundamentals
 - Python (Intermediate)
+  <br>
+  <p align="center">
+  <img src="1__wxwNuxszA6vwQIUMbF-fw.gif">
+</p>
+
 
 ### 🎓 Education
+<br>
+<p align="center">
+  <img src="images.jpeg"width="200" height="200">
+</p>
+<br>
+
 - United International University 
   B.sc in Computer Science and Engineering (September 2023 - Present)
   
@@ -28,6 +44,11 @@ Feel free to ask any question about programming or academic.
   Higher Secondery School in  (2020 - 2022)
 
 ### 💼 Experience
+<br>
+<p align="center">
+  <img src="experience-3-5247.gif">
+</p>
+
   - Calculus and Algebra
   - Digital logic Design
   - Data structure Algarithms
