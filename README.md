@@ -64,9 +64,9 @@ Feel free to ask any question about programming or academic.
 [Codeforces-mdawadhehossain](https://codeforces.com/profile/mdawadhehossain)<br>
 [Codechef-awadhe](https://www.codechef.com/users/awadhe)<br>
 <br>
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-<br>
-
+<p align="center">
+  <img src="507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif">
+</p>
 
 
 
