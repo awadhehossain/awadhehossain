@@ -12,7 +12,8 @@ Feel free to ask any question about programming or academic.
 
 ### 🔭 Currently Working On:
 - Line follower Bot
-- Soccer Bot
+- Yolo Model
+- Smart farming system design
   <br>
   <p align="center">
   <img src="5d6e641d483137d67d9d4ddfafbc4551.gif">
@@ -24,6 +25,8 @@ Feel free to ask any question about programming or academic.
 - DSA
 - Ml fundamentals
 - Python (Intermediate)
+- SQL
+  
   <br>
   <p align="center">
   <img src="1__wxwNuxszA6vwQIUMbF-fw.gif">
