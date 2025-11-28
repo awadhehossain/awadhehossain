@@ -4,9 +4,8 @@
 </p>
 
 <br>
- <h3>👋Hi, I'm MD. AWADHE HOSSAIN.</h3>
-<br><b>
-Welcome to my git hub profile.<b/> <br>
+ <h3>Welcome to my git hub profile.<br>I'm MD. AWADHE HOSSAIN.</h3>
+<b/> <br>
 🚀<b> I love exploring new technologies and solving real-world problems.<b/> <br>
 Feel free to ask any question about programming or academic.
 
@@ -53,9 +52,11 @@ Feel free to ask any question about programming or academic.
 </p>
 
   - Calculus and Algebra
+  - Statistics
+  - Coordinate Geometry & Vector
   - Digital logic Design
-  - Data structure Algarithms
-  - Yolo Image processing
+  - Soccer Bot
+  - Linear Programming
 
 ### Cirtifications:
 -HackerRank: Problem Solving (Basic)
