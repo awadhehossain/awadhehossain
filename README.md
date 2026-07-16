@@ -9,10 +9,11 @@
 🚀<b> I love exploring new technologies and solving real-world problems.<b/> <br>
 Feel free to ask any question about programming or academic.
 
-### 🔭 Currently Working On:
-- Line follower Bot
-- Yolo Model
-- Smart farming system design
+### 🔭 Currently Working On
+- Body following drone 
+- Face detction and following the object
+- Self Balancing Bot
+- Line follower bot
   <br>
   <p align="center">
   <img src="5d6e641d483137d67d9d4ddfafbc4551.gif">
@@ -20,11 +21,12 @@ Feel free to ask any question about programming or academic.
 
 
 ### 🌱 Currently Learning:
-- Image processing
-- DSA
+- Digital Image processing
+- DSA Advanced
 - Ml fundamentals
+- Tensor follow
 - Python (Intermediate)
-- SQL
+- Scikit learn
   
   <br>
   <p align="center">
@@ -57,6 +59,7 @@ Feel free to ask any question about programming or academic.
   - Digital logic Design
   - Soccer Bot
   - Linear Programming
+  - Computer Architecture
 
 ### Cirtifications:
 -HackerRank: Problem Solving (Basic)
